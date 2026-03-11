@@ -18,7 +18,7 @@ Calculate the nth Fibonacci number efficiently using dynamic programming.
 **Sequence up to n=10:**
 F(0)=0, F(1)=1, F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8, F(7)=13, F(8)=21, F(9)=34, F(10)=55
 
-## ⚙️ Algorithm Analysis
+## Algorithm Analysis
 
 ### Time & Space Complexity Comparison
 
@@ -31,7 +31,7 @@ F(0)=0, F(1)=1, F(2)=1, F(3)=2, F(4)=3, F(5)=5, F(6)=8, F(7)=13, F(8)=21, F(9)=3
 | Matrix Exponentiation | O(log n) | O(1) | Logarithmic time | Complex implementation |
 | Golden Ratio | O(1) | O(1) | Constant time | Precision issues |
 
-## 💻 Complete Python Implementation
+## Complete Python Implementation
 
 ### Approach 1: Naive Recursion (Exponential)
 ```python
