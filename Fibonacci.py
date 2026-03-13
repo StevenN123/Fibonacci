@@ -43,7 +43,7 @@ def fib_naive(n):
 def fib_memoization(n, memo=None):
     """
     Memoization stores computed results in a dictionary (cache)
-    Think of it as taking notes while solving - never recompute what you already know!
+    Think of it as taking notes while solving - never recomputed what you already know.
     
     For n=5, the call tree becomes:
     F(5) -> F(4) -> F(3) -> F(2) -> F(1), F(0)
